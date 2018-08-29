@@ -136,3 +136,5 @@ $RECYCLE.BIN/
 *.docx
 *.txt
 *.html
+*gensim*
+*.pkl
