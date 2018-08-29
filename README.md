@@ -29,7 +29,7 @@ See [these instructions](https://jupyter-notebook-beginner-guide.readthedocs.io/
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/GSA/data-strategy-topic-modeling/blob/master/CONTRIBUTING.MD) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
