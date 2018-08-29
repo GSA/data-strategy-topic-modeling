@@ -130,9 +130,9 @@ $RECYCLE.BIN/
 .com.apple.timemachine.donotpresent
 
 # Data Files
-.xlsx
-.csv
-.zip
-.docx
-.txt
-.html
+*.xlsx
+*.csv
+*.zip
+*.docx
+*.txt
+*.html
